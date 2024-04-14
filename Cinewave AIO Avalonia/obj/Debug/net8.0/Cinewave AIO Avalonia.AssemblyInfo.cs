@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cinewave AIO Avalonia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcf6eab0a75d61325d65e46baed0979c61e825cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a01dfde5218b7f074526cc494913a58192ab4f8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cinewave AIO Avalonia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cinewave AIO Avalonia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
