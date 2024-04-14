@@ -1,0 +1,58 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:Cinewave_AIO_Avalonia.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="Cinewave_AIO_Avalonia.Views.MainWindow"
+        x:DataType="vm:MainWindowViewModel"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="Cinewave AIO"
+        TransparencyLevelHint="AcrylicBlur"
+        Background="Transparent">
+
+    <Design.DataContext>
+        <!-- This only sets the DataContext for the previewer in an IDE,
+             to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+        <vm:MainWindowViewModel/>
+    </Design.DataContext>
+    
+    <SplitView IsPaneOpen="True"
+               DisplayMode="Inline"
+               OpenPaneLength="150">
+        <SplitView.Pane>
+            <Grid ShowGridLines="False">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Button x:Name="Movies_Button" Margin="5" Width="139" Padding="10"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Top"
+                        HorizontalContentAlignment="Center"
+                        Grid.Row="0"
+                        Click="Movies_Button_OnClick">
+                    Movies / Shows
+                </Button>
+                <Button x:Name="Test" Margin="5" Width="139" Padding="10" 
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Top"
+                        HorizontalContentAlignment="Center"
+                        Grid.Row="8">
+                    Settings
+                </Button>
+            </Grid>
+        </SplitView.Pane>
+        <SplitView.Content>
+            <WebView x:Name="PART_WebView" IsVisible="False" Grid.Row="1" Url=""/>
+        </SplitView.Content>         
+    </SplitView>
+</Window>

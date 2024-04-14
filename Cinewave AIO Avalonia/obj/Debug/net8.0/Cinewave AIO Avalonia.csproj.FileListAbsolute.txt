@@ -1,0 +1,160 @@
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Cinewave AIO Avalonia
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Cinewave AIO Avalonia.deps.json
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Cinewave AIO Avalonia.runtimeconfig.json
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Cinewave AIO Avalonia.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Cinewave AIO Avalonia.pdb
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.Base.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.Controls.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.Dialogs.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.Markup.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.Metal.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.MicroCom.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.OpenGL.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.Desktop.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.Native.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.ReactiveUI.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.Skia.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.Win32.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.X11.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/DynamicData.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/HarfBuzzSharp.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/MicroCom.Runtime.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/ReactiveUI.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/SkiaSharp.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Splat.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/System.Reactive.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/obj/Debug/net8.0/Cinewave AIO Avalonia.csproj.AssemblyReference.cache
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/obj/Debug/net8.0/Avalonia/resources
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/obj/Debug/net8.0/Cinewave AIO Avalonia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/obj/Debug/net8.0/Cinewave AIO Avalonia.AssemblyInfoInputs.cache
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/obj/Debug/net8.0/Cinewave AIO Avalonia.AssemblyInfo.cs
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/obj/Debug/net8.0/Cinewave AIO Avalonia.csproj.CoreCompileInputs.cache
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/obj/Debug/net8.0/Avalonia/references
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/obj/Debug/net8.0/Avalonia/original.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/obj/Debug/net8.0/Avalonia/original.pdb
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/obj/Debug/net8.0/Avalonia/original.ref.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/obj/Debug/net8.0/refint/Cinewave AIO Avalonia.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/obj/Debug/net8.0/Cinewave AIO Avalonia.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/obj/Debug/net8.0/Cinewave AIO Avalonia.pdb
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/obj/Debug/net8.0/Cinewave AIO Avalonia.csproj.CopyComplete
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/obj/Debug/net8.0/Cinewave AIO Avalonia.genruntimeconfig.cache
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/obj/Debug/net8.0/ref/Cinewave AIO Avalonia.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/AtkSharp.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/CairoSharp.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/CommunityToolkit.Mvvm.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/GdkSharp.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/GioSharp.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/GLibSharp.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/GtkSharp.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/PangoSharp.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/WebkitGtkSharp.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.WebView.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/AvaloniaWebView.Shared.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/DryIoc.Shared.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/WebView.Avalonia.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/WebView.Core.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.WebView.Desktop.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.WebView.Linux.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Linux.WebView.Core.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.WebView.MacCatalyst.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Xamarin.Mac.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Avalonia.WebView.Windows.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/Microsoft.Web.WebView2.Core.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/win-arm64/native/WebView2Loader.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/win-x64/native/WebView2Loader.dll
+/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/bin/Debug/net8.0/runtimes/win-x86/native/WebView2Loader.dll
