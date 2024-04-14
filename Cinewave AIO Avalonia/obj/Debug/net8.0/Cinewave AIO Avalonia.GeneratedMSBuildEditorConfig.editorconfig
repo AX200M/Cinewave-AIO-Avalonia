@@ -14,21 +14,21 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Cinewave_AIO_Avalonia
 build_property.RootNamespace = Cinewave_AIO_Avalonia
-build_property.ProjectDir = /Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/
+build_property.ProjectDir = D:\Programming Projects\Cinewave AIO Avalonia\Cinewave AIO Avalonia\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia
+build_property.MSBuildProjectDirectory = D:\Programming Projects\Cinewave AIO Avalonia\Cinewave AIO Avalonia
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/App.axaml]
+[D:/Programming Projects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 build_metadata.AdditionalFiles.TargetPath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ax200m/RiderProjects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/Views/MainWindow.axaml]
+[D:/Programming Projects/Cinewave AIO Avalonia/Cinewave AIO Avalonia/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 build_metadata.AdditionalFiles.TargetPath = 
 build_metadata.AdditionalFiles.CssScope = 
